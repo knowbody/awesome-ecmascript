@@ -12,3 +12,7 @@ Curated list of resources on ES6 and ES7
 * [Exploring ES6](http://exploringjs.com) -- Axel Rauschmayer
 
 ### ES7
+
+
+### Contribution
+Feel free to send PRs to add more resources.
